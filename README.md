@@ -31,3 +31,5 @@
 
 # HAM:
 1. [Инкремент числа в 11СС](https://github.com/DVNka/infecs/blob/HAM/incr11.txt)
+
+2. [Доп. код числа в 7СС](https://github.com/DVNka/infecs/blob/HAM/dopcode7.txt)
