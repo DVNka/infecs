@@ -4,6 +4,7 @@
 
 Использовать только в ознакомительных целях.
 # Навигация:
+# C:
 1. [Перевод целого числа в натуральную систему счисления](https://github.com/DVNka/infecs/blob/C/defnat.c)
 
 2. [Перевод целого числа в кардинальную систему счисления](https://github.com/DVNka/infecs/blob/C/defkar.c)
@@ -27,3 +28,6 @@
 11. [Вычисление первых 999 чисел Леонардо](https://github.com/DVNka/infecs/blob/C/leonardo.c)
 
 12. [Перевод программы из четвёрок в Си](https://github.com/DVNka/infecs/blob/C/chettoc_beta.c)
+
+# HAM:
+1. [Инкремент числа в 11СС](https://github.com/DVNka/infecs/blob/HAM/incr11.txt)
